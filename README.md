@@ -124,7 +124,7 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Assigned | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
- Finished ! | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
+ Assigned | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Assigned | [Docker Mastery: Complete toolset](https://www.udemy.com/course/docker-mastery/) | Udemy | 2 weeks | 10 hours/week 
  Assigned | [Apache Kafka Series: Kafka v2 for beginners](https://www.udemy.com/course/apache-kafka/) | Udemy | 2 weeks | 10 hours/week 
  Assigned | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
@@ -148,7 +148,7 @@ Course(s) | Progress | University | Duration | Effort
  Assigned | [System Design Interview: An insider's guide](https://www.amazon.nl/System-Design-Interview-insiders-guide/dp/B08CMF2CQF/ref=sr_1_2?__mk_nl_NL=ÅMÅŽÕÑ&crid=RWPX24HYZU04&keywords=System+Design+Interview+–+An+insider%27s+guide&qid=1649541893&sprefix=system+design+interview+an+insider%27s+guide%2Caps%2C94&sr=8-2) | Literature | 4 weeks | 6 hours/week
  Assigned | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?crid=OCOVUA7BKEI0&dchild=1&keywords=clean+code&qid=1601845289&s=digital-text&sprefix=clean+%2Cdigital-text%2C308&sr=1-1) | Literature | 4 weeks | 6 hours/week
  Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
- Finished (re-reading) | [The Coding Career Handbook](https://www.learninpublic.org/) | Literature | 2 weeks | 2 hours/week  
+ Finished ! | [The Coding Career Handbook](https://www.learninpublic.org/) | Literature | 2 weeks | 2 hours/week  
 
 
 ## Specialization CS
